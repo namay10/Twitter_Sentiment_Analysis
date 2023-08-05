@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Twitter_Sentiment_Analysis
 Live streaming of tweets from twitter streamed by the tags given by the user
 
 # Pre-requsites
